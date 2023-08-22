@@ -32,3 +32,4 @@ If there is any questions feel free to contact me through [GitHub](https://githu
 
 Here is a [video](https://drive.google.com/file/d/1WqQgX0CiCPsOwM9msGYf8PBDMegt41Jw/view) demonstrating how this API works in insomnia
 
+![Screenshot 2023-08-22 162549](https://github.com/johnnyowen/Social-Media-API/assets/127053240/e46a84e0-53b9-424d-9085-1ecf6b6dc0ab)
